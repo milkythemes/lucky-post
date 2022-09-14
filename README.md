@@ -30,15 +30,15 @@ There are two ways to use Lucky Post and some rules to follow to ensure it works
 
 ### Method 1: href link
 
-Perhaps the simplest method is to link your href (url) to ``https://example.com/rdm-post/``
+Perhaps the simplest method is to link your href (url) to ``https://example.com/#rdm-post/``
 - https://example.com being your own website URL
-- /rdm-post/ being the trigger
+- **/#rdm-post/** being the trigger
 
 Important notes:
-- It's important to keep the forward-slash '/' at the beginning and end of 'rdm-post' along with the full url. Otherwise the trigger will not function.
+- It's important to keep the forward-slash '/' at the beginning and end of 'rdm-post' along with the full url and hash '#'. Otherwise the trigger will not function.
 **Correct** usage example:
 ```html
-<a href="https://example.com/rdm-post/">Random Post</a>
+<a href="https://example.com/#rdm-post/">Random Post</a>
 ```
 **Inccorect** usage:
 ```html
@@ -58,4 +58,4 @@ E.g.
 
 Navigate to **Settings > Navigation** and create a new link with your website URL followed by '/rdm-post/'
 
-E.g. `https://example.com/rdm-post/`
+E.g. `https://example.com/#rdm-post/`

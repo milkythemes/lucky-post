@@ -1,6 +1,6 @@
 {
   "name": "@milky-themes/lucky-post",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Generate random post links for Ghost",
   "main": "index.min.js",
   "repository": {

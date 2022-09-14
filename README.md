@@ -6,7 +6,7 @@ Generate random post links for Ghost. It's easy to set up and get going.
 
 1. In your Ghost admin dashboard, navigate to **Settings > Code injections** and in your "Site footer" paste the following code:
 ```html
-<script src="https://unpkg.com/@milky-themes/lucky-post@latest/index.js"></script>
+<script src="https://unpkg.com/@milky-themes/lucky-post@latest/index.min.js"></script>
 ```
 
 2. Navigate to **Settings > Integrations** and select "Add custom integration"

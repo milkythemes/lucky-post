@@ -6,7 +6,7 @@ Generate random post links for Ghost. It's easy to set up and get going.
 
 1. In your Ghost admin dashboard, navigate to **Settings > Code injections** and in your "Site footer" paste the following code:
 ```html
-<script src="https://unpkg.com/@milky-themes/lucky-post@latest/index.min.js"></script>
+<script src="https://unpkg.com/@milky-themes/lucky-post@latest/min/index-min.js"></script>
 ```
 
 2. Navigate to **Settings > Integrations** and select "Add custom integration"
@@ -30,7 +30,7 @@ There are two ways to use Lucky Post and some rules to follow to ensure it works
 
 ### Method 1: href link
 
-Perhaps the simplest method is to link your href (url) to 'https://example.com/rdm-post/'
+Perhaps the simplest method is to link your href (url) to ``https://example.com/rdm-post/``
 - https://example.com being your own website URL
 - /rdm-post/ being the trigger
 

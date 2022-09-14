@@ -1,6 +1,6 @@
 {
   "name": "@milky-themes/lucky-post",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generate random post links for Ghost",
   "main": "index.min.js",
   "repository": {
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/milkythemes/lucky-post/issues"
   },
-  "homepage": "https://github.com/milkythemes/lucky-post#readme"
+  "homepage": "https://github.com/milkythemes/lucky-post#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-minify": "^3.1.0"
+  }
 }

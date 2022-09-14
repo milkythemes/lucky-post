@@ -25,7 +25,7 @@ function luckyPost() {
     const postUrl = [];
 
     const randomBtn = document.getElementsByClassName("btn-random");
-    const stringHostUrl = `[href="${pageUrl}/rdm-post/"]`
+    const stringHostUrl = `[href="${pageUrl}/#rdm-post/"]`
     const randomPost = document.querySelectorAll(stringHostUrl);
 
 

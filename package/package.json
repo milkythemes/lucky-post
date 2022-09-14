@@ -1,0 +1,21 @@
+{
+  "name": "@milky-themes/lucky-post",
+  "version": "1.0.2",
+  "description": "Generate random post links for Ghost",
+  "main": "index.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkythemes/lucky-post.git"
+  },
+  "keywords": [
+    "GhostCMS",
+    "Ghost integration",
+    "Random post generator"
+  ],
+  "author": "Milky Themes (@ux_raz)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/milkythemes/lucky-post/issues"
+  },
+  "homepage": "https://github.com/milkythemes/lucky-post#readme"
+}

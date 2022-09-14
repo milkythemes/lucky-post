@@ -1,4 +1,4 @@
-#Lucky post
+# Lucky post
 
 Generate random post links for Ghost. It's easy to set up and get going.
 
